@@ -1,0 +1,58 @@
+C:\Users\username\source\repos\rentalmobil\rentalmobil\bin\Debug\rentalmobil.exe.config
+C:\Users\username\source\repos\rentalmobil\rentalmobil\bin\Debug\rentalmobil.exe
+C:\Users\username\source\repos\rentalmobil\rentalmobil\bin\Debug\rentalmobil.pdb
+C:\Users\username\source\repos\rentalmobil\rentalmobil\bin\Debug\rentalmobil.xml
+C:\Users\username\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.vbproj.AssemblyReference.cache
+C:\Users\username\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.vbproj.SuggestedBindingRedirects.cache
+C:\Users\username\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Resources.resources
+C:\Users\username\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.vbproj.GenerateResource.cache
+C:\Users\username\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.vbproj.CoreCompileInputs.cache
+C:\Users\username\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.exe
+C:\Users\username\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.xml
+C:\Users\username\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.pdb
+C:\Users\username\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Login.resources
+C:\Users\username\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.vbproj.CopyComplete
+C:\Users\username\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Home.resources
+C:\Users\username\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.User.resources
+C:\Users\username\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Login2.resources
+C:\Users\username\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Home2.resources
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\bin\Debug\rentalmobil.exe.config
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\bin\Debug\rentalmobil.exe
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\bin\Debug\rentalmobil.pdb
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\bin\Debug\rentalmobil.xml
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.vbproj.AssemblyReference.cache
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.vbproj.SuggestedBindingRedirects.cache
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Home.resources
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Home2.resources
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Login.resources
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Login2.resources
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Resources.resources
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.User.resources
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.vbproj.GenerateResource.cache
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.vbproj.CoreCompileInputs.cache
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.vbproj.CopyComplete
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.exe
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.xml
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.pdb
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Peminjam.resources
+C:\Users\MSI USER\source\repos\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Transaksi.resources
+D:\rentalmobil\rentalmobil\bin\Debug\rentalmobil.exe.config
+D:\rentalmobil\rentalmobil\bin\Debug\rentalmobil.exe
+D:\rentalmobil\rentalmobil\bin\Debug\rentalmobil.pdb
+D:\rentalmobil\rentalmobil\bin\Debug\rentalmobil.xml
+D:\rentalmobil\rentalmobil\obj\Debug\rentalmobil.vbproj.AssemblyReference.cache
+D:\rentalmobil\rentalmobil\obj\Debug\rentalmobil.vbproj.SuggestedBindingRedirects.cache
+D:\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Home.resources
+D:\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Home2.resources
+D:\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Login.resources
+D:\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Login2.resources
+D:\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Resources.resources
+D:\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Peminjam.resources
+D:\rentalmobil\rentalmobil\obj\Debug\rentalmobil.Transaksi.resources
+D:\rentalmobil\rentalmobil\obj\Debug\rentalmobil.User.resources
+D:\rentalmobil\rentalmobil\obj\Debug\rentalmobil.vbproj.GenerateResource.cache
+D:\rentalmobil\rentalmobil\obj\Debug\rentalmobil.vbproj.CoreCompileInputs.cache
+D:\rentalmobil\rentalmobil\obj\Debug\rentalmobil.vbproj.CopyComplete
+D:\rentalmobil\rentalmobil\obj\Debug\rentalmobil.exe
+D:\rentalmobil\rentalmobil\obj\Debug\rentalmobil.xml
+D:\rentalmobil\rentalmobil\obj\Debug\rentalmobil.pdb
