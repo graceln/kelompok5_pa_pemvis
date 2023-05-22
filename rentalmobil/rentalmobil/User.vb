@@ -89,7 +89,7 @@ Public Class User
 
     End Sub
 
-    Private Sub DataGridView1_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles DataGridView1.CellContentClick
+     Private Sub DataGridView1_CellClick(sender As Object, e As DataGridViewCellEventArgs) Handles DataGridView1.CellClick
         Dim i As Integer
         i = Me.DataGridView1.CurrentRow.Index
         With DataGridView1.Rows.Item(i)
@@ -155,7 +155,7 @@ Public Class User
             End If
             RD.Close()
         End If
-        If Not Char.IsLetter(e.KeyChar) AndAlso Not Char.IsControl(e.KeyChar) Then
+        If Not Char.IsLetter(e.KeyChar) AndAlso Not Char.IsControl(e.KeyChar) AndAlso Not Char.IsWhiteSpace(e.KeyChar) Then
             e.Handled = True
         End If
     End Sub
