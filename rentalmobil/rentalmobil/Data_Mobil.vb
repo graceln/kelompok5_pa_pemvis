@@ -1,4 +1,4 @@
-﻿Imports MySql.Data.MySqlClient
+Imports MySql.Data.MySqlClient
 
 Public Class Data_Mobil
 
@@ -146,23 +146,8 @@ Public Class Data_Mobil
 
     Private Sub txtnopol_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtnopol.KeyPress
 
-        txtmerek.MaxLength = 50
-        If e.KeyChar = Chr(13) Then
-            CMD = New MySqlCommand("Select * FROM data_mobil WHERE no_polisi=" & txtnopol.Text, CONN)
-            RD = CMD.ExecuteReader
-            RD.Read()
-            If RD.HasRows = True Then
-                txtmerek.Text = RD.Item(1)
-                txttype.Text = RD.Item(2)
-                txttahun.Text = RD.Item(3)
-                txtnopol.Text = RD.Item(4)
-                txtharga.Text = RD.Item(5)
-                txtstatus.Text = RD.Item(6)
-            Else
-                Call isi()
-                txtnopol.Focus()
-            End If
-            RD.Close()
+        If Not Char.IsDigit(e.KeyChar) AndAlso e.KeyChar <> ControlChars.Back Then
+            e.Handled = True ' Membatalkan karakter yang bukan angka
         End If
 
     End Sub
@@ -212,5 +197,27 @@ Public Class Data_Mobil
 
     Private Sub PengambalianMobilToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles PengambalianMobilToolStripMenuItem.Click
 
+    End Sub
+
+    Private Sub txttahun_TextChanged(sender As Object, e As EventArgs) Handles txttahun.TextChanged
+
+    End Sub
+
+    Private Sub txttahun_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txttahun.KeyPress
+        txttahun.MaxLength = 4
+        If Not Char.IsDigit(e.KeyChar) AndAlso e.KeyChar <> ControlChars.Back Then
+            e.Handled = True ' Membatalkan karakter yang bukan angka
+        End If
+
+    End Sub
+
+    Private Sub txtharga_TextChanged(sender As Object, e As EventArgs) Handles txtharga.TextChanged
+
+    End Sub
+
+    Private Sub txtharga_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtharga.KeyPress
+        If Not Char.IsDigit(e.KeyChar) AndAlso e.KeyChar <> ControlChars.Back Then
+            e.Handled = True ' Membatalkan karakter yang bukan angka
+        End If
     End Sub
 End Class
